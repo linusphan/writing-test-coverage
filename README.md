@@ -21,5 +21,6 @@ used to verify that the constructors behave as intended.
 
 # Other Notes
 
-Check out the specs for more details and to better understand the constructors
-and their intended behaviors. The specs also act like documentation on the code.
+Check out the testing specs for more details and to better understand the
+constructors and their intended behaviors. The specs also act like documentation
+on the code.
