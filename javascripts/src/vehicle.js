@@ -12,4 +12,3 @@ Vehicle.prototype = {
     return 'Beep beep!';
   },
 };
-
