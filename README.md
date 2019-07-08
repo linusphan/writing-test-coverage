@@ -2,7 +2,8 @@
 
 This project is about getting more practice with Jasmine and its features. The
 project will have two JavaScript object constructors and Jasmine testing will be
-used to verify that the constructors behave as intended.
+used to verify that the constructors behave as intended. Open `SpecRunner.html`
+to run the specs.
 
 # Features
 
